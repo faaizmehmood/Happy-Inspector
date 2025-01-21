@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263742619601",
+    "project_id": "happy-inspect-46701",
+    "storage_bucket": "happy-inspect-46701.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263742619601:android:6c5356c6a8d0199153aaf0",
+        "android_client_info": {
+          "package_name": "com.bilalniazi281297.happyinspector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263742619601-keblnuburumdfjekckrv2asrr81k6a0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilalniazi281297.happyinspector",
+            "certificate_hash": "cc4adca76bd996554b1b5c06bc3acbda170f1cb6"
+          }
+        },
+        {
+          "client_id": "263742619601-t1ohjpg1dmnecsoljbait2h2nqga3eg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSed6mmKHUqnslp5ht9uI-_nHZFEYeK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263742619601-t1ohjpg1dmnecsoljbait2h2nqga3eg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
